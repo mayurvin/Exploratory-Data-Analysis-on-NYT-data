@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-on-NYT-data
-Performed EDA on the New York Times data in RStudio. First the EDA is done for one day data and then extended the analysis for Monthly data to look for trends and other findings. The NYT data is taken directly from the NYT website for whole month in .csv format.
+# Exploratory-Data-Analysis
+Performed EDA on the New York Times and RealDirect data in R in RStudio. First the EDA is done for one day NYT data and only Brooklyn Borough and then extended the analysis for Monthly data and all NYC Boroughs to look for trends and other findings. The NYT and RealDirect data is taken directly from the NYT and RealDirect website in .csv format.
